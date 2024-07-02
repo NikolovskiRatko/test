@@ -1,0 +1,7 @@
+[
+  {"name": "cow", "sound": "moo"},
+  {"name": "dog", "sound": "woof"},
+  {"name": "cat", "sound": "meow"},
+  {"name": "duck", "sound": "quack"},
+  {"name": "pig", "sound": "oink"}
+]
